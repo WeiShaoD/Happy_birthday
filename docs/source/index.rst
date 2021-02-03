@@ -3,7 +3,7 @@ Happy birthday to YUXi!
 =======================
 
 .. image:: 5041.png_860.png
-.. image:: webwxgetmsgimg (3).jpg
+.. image:: webw.png
 .. image::  webwxgetmsgimg (4).jpg 
 
  
