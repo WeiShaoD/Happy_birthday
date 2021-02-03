@@ -2,9 +2,13 @@
 Happy birthday to YUXi!
 =======================
 
+May you have wonderful hair
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 .. image:: 5041.png_860.png
-.. image:: webw.png
-.. image::  webwxgetmsgimg (4).jpg 
+.. image:: has.png
+.. image:: webwxg.png 
+
 
  
 
