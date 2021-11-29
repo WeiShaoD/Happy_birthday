@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Happy birthday"
+project = "Wei Shao CV"
 copyright = '2021, wei'
 author = 'wei'
 
