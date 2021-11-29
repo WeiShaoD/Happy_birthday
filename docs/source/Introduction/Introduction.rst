@@ -1,12 +1,11 @@
-My background
-=============
+Introduction 
+============
 
 Research Assistant, Baycrest
 
 Master in developmental psychology, university of Toronto
 
 Bachelor in Financial accounting,Hunan agricultural university
-
 
 My research work
 ****************
