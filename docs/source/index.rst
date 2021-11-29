@@ -10,7 +10,8 @@ Welcome to my home page
    :maxdepth: 2   
    :caption: Contents:
 
-   
+   Research/Research.rst
+   Teaching/Teaching.rst       
 
 
 
