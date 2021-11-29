@@ -2,12 +2,7 @@ Welcome to my home page
 =======================
 
 
-.. image:: 5041.png_860.png
-
-.. image:: has.png
-
-.. image:: webwxg.png 
-
+.. image:: Wei_Shao.jfif
 
  
 
