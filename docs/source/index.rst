@@ -1,12 +1,11 @@
-
-Happy birthday to YUXi!
+Welcome to my home page 
 =======================
 
-May you have wonderful hair
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: 5041.png_860.png
+
 .. image:: has.png
+
 .. image:: webwxg.png 
 
 
