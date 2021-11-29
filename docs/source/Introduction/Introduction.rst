@@ -18,22 +18,20 @@ My research work
 
 • Collaborate with graduate students and other lab members for a joint research project
 
-• Work on volumetric, and fMRI analysis via HPC and write an online documentation to introduce neuroimage analysis methods and application of machine
-learning models
+• Work on volumetric, and fMRI analysis via HPC and write an online documentation to introduce neuroimage analysis methods and application of machine learning models
 
 
 My teaching work
 ****************
 
-• Tutor student with studying material such as lectures, articles and research projects to develop the conceptual understanding of course contents
-(Psy100-300 course)
+• Tutor student with studying material such as lectures, articles and research projects to develop the conceptual understanding of course contents (Psy100-300 course)
 
 • Improve undergrad student’s academic writing with respect to grammar, sentence structure, paragraph, expression, and format
 
 • Interview and train new tutors (psychology, statistics) from North American, UK, and Australia
 
-My Conference
-*************
+My Conference experience
+************************
 
 • 2021.12 Classification of mild cognitive impairment with Random forest and Multilayer perceptron at Neuromatch 4.0 (Speaker)
 
@@ -56,5 +54,4 @@ My skills
 
 • fMRI and MRI analysis Software: FreeSurfer, FSL, AFNI, SPM,NiBabel, Nilearn,scikit-learn
 
-• fMRI analysis: fMRI preprocessing, 1st level and group level analysis, ROI analysis, volume analysis, hippocampus segmentations (automated), Machine 
-learning models.
+• fMRI analysis: fMRI preprocessing, 1st level and group level analysis, ROI analysis, volume analysis, hippocampus segmentations (automated), Machine learning models.
