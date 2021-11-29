@@ -7,6 +7,7 @@ Master in developmental psychology, university of Toronto
 
 Bachelor in Financial accounting,Hunan agricultural university
 
+
 My research work
 ****************
 
@@ -32,3 +33,29 @@ My teaching work
 
 • Interview and train new tutors (psychology, statistics) from North American, UK, and Australia
 
+My Conference
+*************
+
+• 2021.12 Classification of mild cognitive impairment with Random forest and Multilayer perceptron at Neuromatch 4.0 (Speaker)
+
+• 2021.11 Psychonomic Society Annual Meeting
+
+• 2021.06 OHBM 2021 Annual Meeting
+
+• 2021.03 Aging & Brain Health: Optimizing Cognitive & Behavioural Function in Disorders of the Aging Brain - Rotman Research Institute Conference
+
+• 2020.03 Aging & Brain Health: Mental Health and Well-being - Rotman Research Institute Conference
+
+My skills
+*********
+
+• Research skills: Experimental design, Human subjects’ testing
+
+• Techniques: fMRI, Eye-tracking (EyelinkⅡ), Linux system,
+
+• Programming: Python, R, Shell-scripting, High-performance computing, Visual Studio Code, SPSS
+
+• fMRI and MRI analysis Software: FreeSurfer, FSL, AFNI, SPM,NiBabel, Nilearn,scikit-learn
+
+• fMRI analysis: fMRI preprocessing, 1st level and group level analysis, ROI analysis, volume analysis, hippocampus segmentations (automated), Machine 
+learning models.

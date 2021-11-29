@@ -11,8 +11,9 @@ Welcome to my home page
    :caption: Contents:
 
    Background/Background.rst
-   Research/Research.rst
-   Teaching/Teaching.rst       
+   
+   #Research/Research.rst
+   #Teaching/Teaching.rst       
  
 
 
