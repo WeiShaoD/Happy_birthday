@@ -55,3 +55,12 @@ My skills
 • fMRI and MRI analysis Software: FreeSurfer, FSL, AFNI, SPM,NiBabel, Nilearn,scikit-learn
 
 • fMRI analysis: fMRI preprocessing, 1st level and group level analysis, ROI analysis, volume analysis, hippocampus segmentations (automated), Machine learning models.
+
+Project
+*******
+
+AIM_eye-tracking
+
+At_Risk
+
+`Balloon analog risk task <https://neuroimage-book02.readthedocs.io/en/latest/FSL/FSL_Ballon/FSL_Ballon.html>`-.
